@@ -1,3 +1,8 @@
+# Hosted URL  - https://kashifraza1208.github.io/expense-tracker/
+
+![Screenshot (607)](https://github.com/Kashifraza1208/expense-tracker/assets/60813449/0d2ae659-6fec-4ca0-9172-ab532f7a81d9)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
